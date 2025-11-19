@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=100px src="https://img-premium.flaticon.com/png/512/2942/2942269.png?token=exp=1622321420~hmac=4864c7ee60fb37512bdbb265604717a0"</a>
-</p>
+
 <h1 align = 'center'>   Spendee - Track expenses with your voice</h1>
 
 ![](https://img.shields.io/badge/Made_with-Reactjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
